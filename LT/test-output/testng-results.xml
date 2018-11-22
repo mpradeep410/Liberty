@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2018-11-17T15:13:21Z" finished-at="2018-11-17T15:13:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="110" started-at="2018-11-17T15:13:21Z" finished-at="2018-11-17T15:13:21Z">
+      <class name="LibertyTa.LT.test">
+        <test-method status="PASS" signature="testadfa()[pri:0, instance:LibertyTa.LT.test@d2e7d9]" name="testadfa" duration-ms="37" started-at="2018-11-17T20:43:21Z" finished-at="2018-11-17T20:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testadfa -->
+      </class> <!-- LibertyTa.LT.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
